@@ -1,0 +1,6 @@
+
+
+*.ipynb_checkpoints/
+
+mammals/
+single_thread/

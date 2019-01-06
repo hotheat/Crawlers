@@ -1,0 +1,31 @@
+{
+  "aphiaID": "90  (urn:lsid:marinespecies.org:taxname:90)",
+  "classification": "Biota Animalia (Kingdom) Mollusca (Phylum) Polyplacophora (Class) Neoloricata (Subclass) Chitonida (Order) Acanthochitonina (Suborder)",
+  "status": "accepted",
+  "rank": "Suborder",
+  "parent": "Chitonida",
+  "environment": "marine",
+  "original_dscp": "Not documented",
+  "tax_citation": "MolluscaBase (2018). Acanthochitonina. Accessed through: World Register of Marine Species at: http://marinespecies.org/aphia.php?p=taxdetails&id=90 on 2018-08-07",
+  "edit_date": "Date 2004-12-21 15:54:05Z 2009-01-30 14:43:20Z",
+  "edit_action": "action created changed",
+  "edit_by": "Gofas, Serge",
+  "synonymised_name": "",
+  "child": "Superfamily Cryptoplacoidea H. Adams & A. Adams, 1858\nSuperfamily Mopalioidea Dall, 1889",
+  "fossil_range": ""
+}{
+  "aphiaID": "91  (urn:lsid:marinespecies.org:taxname:91)",
+  "classification": "Biota Animalia (Kingdom) Mollusca (Phylum) Polyplacophora (Class) Neoloricata (Subclass) Chitonida (Order) Acanthochitonina (Suborder) Cryptoplacoidea (Superfamily) Acanthochitonidae (Family)",
+  "status": "accepted",
+  "rank": "Family",
+  "parent": "Cryptoplacoidea H. Adams & A. Adams, 1858",
+  "environment": "marine",
+  "original_dscp": "Not documented",
+  "tax_citation": "MolluscaBase (2018). Acanthochitonidae Pilsbry, 1893. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=91 on 2018-08-07",
+  "edit_date": "Date 2004-12-21 15:54:05Z 2009-03-19 13:29:13Z",
+  "edit_action": "action created changed",
+  "edit_by": "Schwabe, Enrico",
+  "synonymised_name": "Acanthochitidae Pilsbry, 1893 (original combination)",
+  "child": "Genus Acanthochitona Gray, 1821\nGenus Bassethullia Pilsbry, 1928\nGenus Choneplax Carpenter MS, Dall, 1882\nGenus Craspedochiton Shuttleworth, 1853\nGenus Craspedoplax Iredale & Hull, 1925\nGenus Cryptoconchus Burrow, 1815\nGenus Leptoplax Dall, 1882\nGenus Notoplax H. Adams, 1862\nGenus Pseudotonicia Ashby, 1928\n\nGenus Acanthochaetes Leach in Risso, 1826 accepted as Acanthochitona Gray, 1821 (synonym)\nGenus Acanthochites Risso, 1826 accepted as Acanthochitona Gray, 1821 (synonym)\nGenus Acanthochiton Herrmannsen, 1846 accepted as Acanthochitona Gray, 1821 (invalid: unjustified emendation of Acanthochites Risso, 1826)\nGenus Americhiton Watters, 1990 accepted as Acanthochitona Gray, 1821 (differential characters insufficient)\nGenus Angasia Carpenter in Dall, 1882 accepted as Craspedochiton Shuttleworth, 1853\nGenus Anisochiton P. Fischer, 1885 accepted as Acanthochitona Gray, 1821 (synonym)\nGenus Aristochiton Thiele, 1909 accepted as Notoplax H. Adams, 1862 (synonym)\nGenus Chitonellus Lamarck, 1819 accepted as Cryptoplax Blainville, 1818\nGenus Eoplax Ashby & Cotton, 1936 † accepted as Notoplax H. Adams, 1862 (synonym)\nGenus Glyptelasma Iredale & Hull, 1925 accepted as Bassethullia Pilsbry, 1928\nGenus Loboplax Pilsbry, 1893 accepted as Notoplax H. Adams, 1862 (synonym)\nGenus Macandrellus Dall, 1879 accepted as Notoplax H. Adams, 1862 (synonym)\nGenus Phacellozona Pilsbry, 1894 accepted as Craspedochiton Shuttleworth, 1853\nGenus Spongiochiton Carpenter MS, Dall, 1882 accepted as Craspedochiton Shuttleworth, 1853\nGenus Thaumastochiton Thiele, 1909 accepted as Craspedochiton Shuttleworth, 1853",
+  "fossil_range": ""
+}
